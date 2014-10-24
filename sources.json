@@ -1,0 +1,31 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "queryInput",
+        "source": "app/assistants/queryInput-assistant.js"
+    },
+    {
+        "scenes": "queryResults",
+        "source": "app/assistants/queryResults-assistant.js"
+    },
+    {
+        "scenes": "singleResult",
+        "source": "app/assistants/singleResult-assistant.js"
+    },
+    {
+        "scenes": "eventInput",
+        "source": "app/assistants/eventInput-assistant.js"
+    },
+    {
+        "scenes": "eventResults",
+        "source": "app/assistants/eventResults-assistant.js"
+    },
+    {
+        "scenes": "singleEvent",
+        "source": "app/assistants/singleEvent-assistant.js"
+    },
+    {
+        "scenes": "help",
+        "source": "app/assistants/help-assistant.js"
+    }
+]

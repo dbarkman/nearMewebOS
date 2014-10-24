@@ -1,0 +1,39 @@
+body {
+    padding: 0px;
+}
+.large {
+    width: 100%;
+}
+.medium {
+    width: 85%;
+}
+.small {
+    width: 65%;
+}
+.smallFont {
+    font-size: 16px;
+}
+.finePrint {
+    font-size: 14px;
+}
+.hidden {
+    display: none;
+}
+#helpID {
+    margin: 15px;
+}
+#helpID .helpBig {
+    font-size: 25px;
+}
+#copyright {
+    margin: 15px;
+}
+#gmailIcon {
+    margin: 0 10px;
+}
+#calIcon {
+    margin: 0 10px;
+}
+#contactIcon {
+    margin: 0 10px;
+}
